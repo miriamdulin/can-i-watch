@@ -1,0 +1,5 @@
+CanIWatchIntent can i watch
+CanIWatchIntent can i watch TV
+CanIWatchIntent can i play on the iPad
+CanIWatchIntent can i play on the computer
+CanIwatchIntent can i play on a screen      
